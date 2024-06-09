@@ -6,4 +6,7 @@
     <string name="roll_number">Roll number</string>
     <string name="edit_roll_number">Enter your roll number</string>
     <string name="button_text">Next</string>
+    <string name="second_activity_heading">Second_activity</string>
+    <string name="second_activity_text_1">This is my second page</string>
+    <string name="Second_activity_button1_text">Exit</string>
 </resources>
