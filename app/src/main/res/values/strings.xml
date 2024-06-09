@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">implement activity life_cycle</string>
+    <string name="Heading">First activity</string>
+    <string name="user_name">User name</string>
+    <string name="edit_user_name">Enter your name</string>
+    <string name="roll_number">Roll number</string>
+    <string name="edit_roll_number">Enter your roll number</string>
+    <string name="button_text">Next</string>
+</resources>
